@@ -47,7 +47,7 @@ report
 ![Valve Assembly](figures/CAD.png)
 
 ### 3D View
-![Exploded View](figures/render.png)
+![Exploded View](figures/render1.png)
 
 ## Key Skills Demonstrated
 - reverse engineering
