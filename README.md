@@ -1,4 +1,6 @@
-# Reverse Engineering and CAD Modeling of a ### 3D View
+# Reverse Engineering and CAD Modeling of a 
+
+## 3D View
 ![Exploded View](figures/render1.png)
 
 
