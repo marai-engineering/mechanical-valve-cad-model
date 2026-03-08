@@ -1,4 +1,4 @@
-# Reverse Engineering and CAD Modeling of a 
+# Reverse Engineering and CAD Modeling of a mechanical valve
 
 ## 3D View
 ![Exploded View](figures/render1.png)
