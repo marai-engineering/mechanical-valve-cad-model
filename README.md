@@ -1,4 +1,6 @@
-# Reverse Engineering and CAD Modeling of a Valve
+# Reverse Engineering and CAD Modeling of a ### 3D View
+![Exploded View](figures/render1.png)
+
 
 ## Overview
 This project involved reverse engineering a physical valve and recreating it as a complete CAD model.
@@ -46,8 +48,7 @@ report
 ### Valve Assembly
 ![Valve Assembly](figures/CAD.png)
 
-### 3D View
-![Exploded View](figures/render1.png)
+
 
 ## Key Skills Demonstrated
 - reverse engineering
